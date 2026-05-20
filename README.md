@@ -33,6 +33,12 @@ Focus: algorithms, visualization, problem understanding
 
 ---
 
+### Expert Booking And Mentorship Platform
+Confer is a full-stack mentorship and expert-booking platform featuring real-time scheduling, subscriptions, messaging, and role-based dashboards. Built using React, Vite, Tailwind CSS, Node.js, Express, MongoDB, and Socket.IO, the platform includes a custom cinematic design system with glassmorphism, Framer Motion animations, and responsive UI architecture.
+
+
+---
+
 ## Skills
 
 - Python, JavaScript  
