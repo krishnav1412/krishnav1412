@@ -1,6 +1,6 @@
 # Hi, I’m Krishnav
 
-I’m a 3rd year Computer Science student specializing in Data Science. I’m particularly interested in how data, logic, and systems come together to solve real-world problems, especially when the problem isn’t clearly defined from the start.
+I’m a 4th year Computer Science student specializing in Data Science. I’m particularly interested in how data, logic, and systems come together to solve real-world problems, especially when the problem isn’t clearly defined from the start.
 
 I tend to approach things by breaking them down into smaller parts, questioning assumptions, and using data to figure out what’s actually going on instead of relying on guesswork.
 
